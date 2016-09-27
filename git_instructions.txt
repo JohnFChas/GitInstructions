@@ -6,3 +6,7 @@
 6. Kör "git add ."
 7. Kör "git commit -m "commit message""
 8. Kör "git push origin master"
+
+Extra kommandon:
+Visa remote repository: "git remote -v"
+Byta URL på remote repository: "git remote set-url origin <new url>"
