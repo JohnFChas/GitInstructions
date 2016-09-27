@@ -1,0 +1,8 @@
+1. Skapa ett konto på GitHub (om du inte redan har ett)
+2. Skapa ett nytt repository för ditt projekt
+3. Gå till projektmappen på din dator
+4. Öppna git bash och kör kommandot "git init"
+5. Lägg till remote repository med "git remote add origin <repository url>"
+6. Kör "git add ."
+7. Kör "git commit -m "commit message""
+8. Kör "git push origin master"
